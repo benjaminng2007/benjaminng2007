@@ -5,9 +5,14 @@
 * **Loan Calculation:** Script focused on financial modeling and payment structures.
 
 ### Skills
-* **Languages:** Python, SQL
-* **Tools & Frameworks:** Git, GitHub
+* **Languages:** Python
+* **Tools & Frameworks:** GitHub
 * **Core Focus:** Object-Oriented Programming, Data Processing, Algorithm Design
+
+### Links
+* **[LinkedIn](https://www.linkedin.com/in/benjamin-nguyen-91965142b)
+* **[Email](mailto:Benjaminng2007@gmail.com)
+  
 
 <!--
 **benjaminng2007/benjaminng2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
