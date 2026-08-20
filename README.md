@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My name is Benjamin Nguyen, a current student at Penn State Brandywine.
+
+### Featured Projects
+* **Financial Checker:** Python application for processing CSV bank data and generating formatted summaries.
+* **Loan Calculation:** Script focused on financial modeling and payment structures.
+
+### Skills
+* **Languages:** Python, SQL
+* **Tools & Frameworks:** Git, GitHub
+* **Core Focus:** Object-Oriented Programming, Data Processing, Algorithm Design
 
 <!--
 **benjaminng2007/benjaminng2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
